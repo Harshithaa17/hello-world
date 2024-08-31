@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Hi, I'm Jyothi Harshitha Gope, a computer science student with a specialization in data science. I'm passionate about exploring new technologies and solving complex problems. I'm currently participating in various coding programs, including the GirlScript Summer of Code and working towards improving my skills in API development, GitHub issue resolution, and more. I enjoy collaborating on open-source projects and constantly seek opportunities to learn and grow in the field.
